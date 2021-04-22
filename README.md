@@ -1,4 +1,4 @@
-# FeatureSelectionGenomeData
+# Feature Selection in GenomeData
 Finding 100 prominent genes out of 4434 features (genes) using F-Test and then train the classifiers using those 100 genes.
 
 There are 40 data instances and 4434 features (genes). First row is the class numbers second - end rows contain feature vectors. Each feature vector is a column. Adding the class number at the begining, each feature vector + label is a 4435 dimensional vector.
